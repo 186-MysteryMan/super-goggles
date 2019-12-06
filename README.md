@@ -1,6 +1,6 @@
 # super-goggles
 The first code file.
 Welcome to my home.
-Here you can see not ordinary feil.
+Here i hope you can see something you want to see.
 Thank you for you spend time look my writings.
 Thanks.
